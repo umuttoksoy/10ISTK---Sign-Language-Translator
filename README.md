@@ -5,4 +5,4 @@
 
 #final_project.vhd is Top Module , vga_driver.vhd and clk_wiz_0 are components. 
 
-#Clocking wizard is used for create 25MHz clock
+#Clocking wizard is used for creating 25MHz clock
